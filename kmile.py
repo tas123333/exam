@@ -6,3 +6,6 @@ for i in range(1, rownumber + 1):
     words = words.split()
     print(words)
     wordlist.append(words)
+print(wordlist)
+word.update(wordlist)
+print(word)
